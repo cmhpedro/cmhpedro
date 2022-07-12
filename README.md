@@ -12,3 +12,5 @@
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+![Snake animation](https://github.com/cmhpedro/cmhpedro/blob/output/github-contribution-grid-snake.svg)
