@@ -7,4 +7,4 @@ I'm also interested in **computer security**, **data structures** and **algorith
 
 [![stats](https://github-readme-stats.vercel.app/api?username=cmhpedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/cmhpedro)
 
-![snake animation](https://raw.githubusercontent.com/cmhpedro/cmhpedro/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/cmhpedro/cmhpedro/output/github-contribution-grid-snake-dark.svg)
